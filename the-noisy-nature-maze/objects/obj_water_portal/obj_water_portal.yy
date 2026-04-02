@@ -2,10 +2,7 @@
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
   "name": "obj_water_portal",
-  "spriteId": {
-    "name": "spr_water_portal",
-    "path": "sprites/spr_water_portal/spr_water_portal.yy",
-  },
+  "spriteId": null,
   "solid": false,
   "visible": true,
   "managed": true,

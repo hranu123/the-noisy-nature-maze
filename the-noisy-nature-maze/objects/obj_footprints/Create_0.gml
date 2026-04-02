@@ -1,9 +1,9 @@
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 1415EB91
-/// @DnDArgument : "expr" "60"
+/// @DnDArgument : "expr" "1"
 /// @DnDArgument : "var" "life"
-life = 60;
+life = 1;
 
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1

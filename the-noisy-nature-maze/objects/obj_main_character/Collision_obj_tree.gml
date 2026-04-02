@@ -11,6 +11,6 @@ image_speed = 0;
 
 /// @DnDAction : YoYo Games.Movement.Jump_To_Start
 /// @DnDVersion : 1
-/// @DnDHash : 6F8FEA06
+/// @DnDHash : 312520EF
 x = xstart;
 y = ystart;
