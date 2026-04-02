@@ -1,8 +1,9 @@
 /// @DnDAction : YoYo Games.Common.If_Variable
 /// @DnDVersion : 1
 /// @DnDHash : 2244D151
-/// @DnDArgument : "var" "hspeed"
-if(hspeed == 0)
+/// @DnDArgument : "var" "hspeed !=0"
+/// @DnDArgument : "not" "1"
+if(!(hspeed !=0 == 0))
 {
 
 }
