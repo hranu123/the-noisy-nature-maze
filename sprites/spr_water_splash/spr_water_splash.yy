@@ -1,7 +1,7 @@
 {
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
-  "name": "spr_water_portal",
+  "name": "spr_water_splash",
   "bboxMode": 0,
   "collisionKind": 1,
   "type": 0,
@@ -12,14 +12,14 @@
   "swfPrecision": 2.525,
   "bbox_left": 0,
   "bbox_right": 149,
-  "bbox_top": 34,
-  "bbox_bottom": 83,
+  "bbox_top": 0,
+  "bbox_bottom": 94,
   "HTile": false,
   "VTile": false,
   "For3D": false,
   "DynamicTexturePage": false,
   "width": 150,
-  "height": 84,
+  "height": 95,
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",
@@ -28,15 +28,15 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"f9cbf97d-273f-4d22-8a96-638ad02abc0e",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"80954f79-8bf7-4e79-aafd-b93e47fdbf41",},
   ],
   "sequence": {
     "resourceType": "GMSequence",
     "resourceVersion": "1.4",
-    "name": "spr_water_portal",
+    "name": "spr_water_splash",
     "timeUnits": 1,
     "playback": 1,
-    "playbackSpeed": 3.0,
+    "playbackSpeed": 30.0,
     "playbackSpeedType": 0,
     "autoRecord": true,
     "volume": 1.0,
@@ -45,7 +45,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"4c71fc43-0355-4c86-8a19-3eea66186a2b","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"f9cbf97d-273f-4d22-8a96-638ad02abc0e","path":"sprites/spr_water_portal/spr_water_portal.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"253af366-b4b4-4ce1-b4fd-dcb2841c29bc","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"80954f79-8bf7-4e79-aafd-b93e47fdbf41","path":"sprites/spr_water_splash/spr_water_splash.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
@@ -64,7 +64,7 @@
     "eventStubScript": null,
   },
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"b81cd31f-447a-40d3-a619-1a6ec2233691","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"68fb050b-4e01-4835-a87a-fd193d3bda72","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {

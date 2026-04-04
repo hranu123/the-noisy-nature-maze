@@ -1,4 +1,4 @@
-/// @DnDAction : YoYo Games.Rooms.Next_Room
+/// @DnDAction : YoYo Games.Movement.Set_Speed
 /// @DnDVersion : 1
-/// @DnDHash : 24102D7D
-room_goto_next();
+/// @DnDHash : 60E61BC3
+speed = 0;
