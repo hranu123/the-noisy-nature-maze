@@ -13,6 +13,7 @@
     {"id":{"name":"spr_water_portal","path":"sprites/spr_water_portal/spr_water_portal.yy",},"order":9,},
     {"id":{"name":"spr_main_left","path":"sprites/spr_main_left/spr_main_left.yy",},"order":1,},
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},"order":1,},
+    {"id":{"name":"snd_water_splash","path":"sounds/snd_water_splash/snd_water_splash.yy",},"order":0,},
     {"id":{"name":"obj_tree","path":"objects/obj_tree/obj_tree.yy",},"order":1,},
     {"id":{"name":"spr_background","path":"sprites/spr_background/spr_background.yy",},"order":4,},
     {"id":{"name":"spr_main_up","path":"sprites/spr_main_up/spr_main_up.yy",},"order":2,},

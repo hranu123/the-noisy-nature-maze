@@ -1,8 +1,8 @@
 /// @DnDAction : YoYo Games.Movement.Set_Speed
 /// @DnDVersion : 1
 /// @DnDHash : 3FB3863E
-/// @DnDArgument : "speed" "3"
-speed = 3;
+/// @DnDArgument : "speed" "15"
+speed = 15;
 
 /// @DnDAction : YoYo Games.Movement.Set_Direction_Fixed
 /// @DnDVersion : 1.1
