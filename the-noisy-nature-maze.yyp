@@ -26,6 +26,8 @@
     {"id":{"name":"obj_snake_border","path":"objects/obj_snake_border/obj_snake_border.yy",},"order":4,},
     {"id":{"name":"spr_boulder","path":"sprites/spr_boulder/spr_boulder.yy",},"order":13,},
     {"id":{"name":"spr_snake_border","path":"sprites/spr_snake_border/spr_snake_border.yy",},"order":16,},
+    {"id":{"name":"obj_small_rock","path":"objects/obj_small_rock/obj_small_rock.yy",},"order":6,},
+    {"id":{"name":"spr_small_rock","path":"sprites/spr_small_rock/spr_small_rock.yy",},"order":18,},
     {"id":{"name":"snd_snake","path":"sounds/snd_snake/snd_snake.yy",},"order":2,},
     {"id":{"name":"obj_tree","path":"objects/obj_tree/obj_tree.yy",},"order":1,},
     {"id":{"name":"snd_background_noise","path":"sounds/snd_background_noise/snd_background_noise.yy",},"order":1,},
