@@ -37,6 +37,7 @@
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_small_rock","path":"objects/obj_small_rock/obj_small_rock.yy",},},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_big_rock","path":"objects/obj_big_rock/obj_big_rock.yy",},},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_wolf","path":"objects/obj_wolf/obj_wolf.yy",},},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_wolf_2","path":"objects/obj_wolf_2/obj_wolf_2.yy",},},
   ],
   "properties": [],
   "overriddenProperties": [],
