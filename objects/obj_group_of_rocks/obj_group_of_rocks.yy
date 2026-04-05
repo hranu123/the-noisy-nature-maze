@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_small_rock",
+  "name": "obj_group_of_rocks",
   "spriteId": {
-    "name": "spr_small_rock",
-    "path": "sprites/spr_small_rock/spr_small_rock.yy",
+    "name": "spr_group_of_rocks",
+    "path": "sprites/spr_group_of_rocks/spr_group_of_rocks.yy",
   },
   "solid": false,
   "visible": true,
