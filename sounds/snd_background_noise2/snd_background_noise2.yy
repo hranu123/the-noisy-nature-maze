@@ -1,10 +1,10 @@
 {
   "resourceType": "GMSound",
   "resourceVersion": "1.0",
-  "name": "snd_outside_room",
+  "name": "snd_background_noise2",
   "conversionMode": 0,
   "compression": 0,
-  "volume": 1.0,
+  "volume": 0.5,
   "preload": false,
   "bitRate": 128,
   "sampleRate": 44100,
@@ -14,8 +14,8 @@
     "name": "audiogroup_default",
     "path": "audiogroups/audiogroup_default",
   },
-  "soundFile": "snd_outside_room.mp3",
-  "duration": 2.742844,
+  "soundFile": "snd_background_noise2.mp3",
+  "duration": 21.336,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",
