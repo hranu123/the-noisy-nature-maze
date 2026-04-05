@@ -35,6 +35,8 @@
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_boulder","path":"objects/obj_boulder/obj_boulder.yy",},},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_group_of_rocks","path":"objects/obj_group_of_rocks/obj_group_of_rocks.yy",},},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_small_rock","path":"objects/obj_small_rock/obj_small_rock.yy",},},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_big_rock","path":"objects/obj_big_rock/obj_big_rock.yy",},},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_wolf","path":"objects/obj_wolf/obj_wolf.yy",},},
   ],
   "properties": [],
   "overriddenProperties": [],
