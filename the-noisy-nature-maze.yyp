@@ -6,6 +6,7 @@
     {"id":{"name":"obj_main_character","path":"objects/obj_main_character/obj_main_character.yy",},"order":0,},
     {"id":{"name":"spr_border","path":"sprites/spr_border/spr_border.yy",},"order":11,},
     {"id":{"name":"spr_main_down","path":"sprites/spr_main_down/spr_main_down.yy",},"order":3,},
+    {"id":{"name":"spr_background2","path":"sprites/spr_background2/spr_background2.yy",},"order":17,},
     {"id":{"name":"obj_water_portal","path":"objects/obj_water_portal/obj_water_portal.yy",},"order":2,},
     {"id":{"name":"spr_tree","path":"sprites/spr_tree/spr_tree.yy",},"order":5,},
     {"id":{"name":"spr_water_splash","path":"sprites/spr_water_splash/spr_water_splash.yy",},"order":10,},
