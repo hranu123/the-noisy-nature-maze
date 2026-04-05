@@ -4,7 +4,7 @@
   "name": "the-noisy-nature-maze",
   "resources": [
     {"id":{"name":"obj_main_character","path":"objects/obj_main_character/obj_main_character.yy",},"order":0,},
-    {"id":{"name":"Sound10","path":"sounds/Sound10/Sound10.yy",},"order":9,},
+    {"id":{"name":"snd_wolf","path":"sounds/snd_wolf/snd_wolf.yy",},"order":9,},
     {"id":{"name":"spr_border","path":"sprites/spr_border/spr_border.yy",},"order":11,},
     {"id":{"name":"spr_main_down","path":"sprites/spr_main_down/spr_main_down.yy",},"order":3,},
     {"id":{"name":"spr_background2","path":"sprites/spr_background2/spr_background2.yy",},"order":17,},
@@ -32,6 +32,7 @@
     {"id":{"name":"spr_snake_border","path":"sprites/spr_snake_border/spr_snake_border.yy",},"order":16,},
     {"id":{"name":"snd_outside_room","path":"sounds/snd_outside_room/snd_outside_room.yy",},"order":6,},
     {"id":{"name":"spr_wolf","path":"sprites/spr_wolf/spr_wolf.yy",},"order":21,},
+    {"id":{"name":"spr_wolf_2","path":"sprites/spr_wolf_2/spr_wolf_2.yy",},"order":22,},
     {"id":{"name":"obj_group_of_rocks","path":"objects/obj_group_of_rocks/obj_group_of_rocks.yy",},"order":6,},
     {"id":{"name":"snd_big_rock","path":"sounds/snd_big_rock/snd_big_rock.yy",},"order":8,},
     {"id":{"name":"spr_group_of_rocks","path":"sprites/spr_group_of_rocks/spr_group_of_rocks.yy",},"order":18,},
