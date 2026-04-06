@@ -25,6 +25,7 @@
     {"id":{"name":"spr_water_portal","path":"sprites/spr_water_portal/spr_water_portal.yy",},"order":9,},
     {"id":{"name":"obj_border","path":"objects/obj_border/obj_border.yy",},"order":3,},
     {"id":{"name":"spr_main_left","path":"sprites/spr_main_left/spr_main_left.yy",},"order":1,},
+    {"id":{"name":"obj_stick","path":"objects/obj_stick/obj_stick.yy",},"order":11,},
     {"id":{"name":"spr_smal_rock","path":"sprites/spr_smal_rock/spr_smal_rock.yy",},"order":19,},
     {"id":{"name":"spr_snake3","path":"sprites/spr_snake3/spr_snake3.yy",},"order":15,},
     {"id":{"name":"spr_snake","path":"sprites/spr_snake/spr_snake.yy",},"order":12,},
