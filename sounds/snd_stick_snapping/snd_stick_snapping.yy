@@ -14,8 +14,8 @@
     "name": "audiogroup_default",
     "path": "audiogroups/audiogroup_default",
   },
-  "soundFile": "snd_stick_snapping",
-  "duration": 0.0,
+  "soundFile": "snd_stick_snapping.mp3",
+  "duration": 1.512,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",
