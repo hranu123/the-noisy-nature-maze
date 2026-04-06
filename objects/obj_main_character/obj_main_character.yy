@@ -45,6 +45,7 @@
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_stick","path":"objects/obj_stick/obj_stick.yy",},},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_log","path":"objects/obj_log/obj_log.yy",},},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_group_of_logs","path":"objects/obj_group_of_logs/obj_group_of_logs.yy",},},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_rock_moss","path":"objects/obj_rock_moss/obj_rock_moss.yy",},},
   ],
   "properties": [],
   "overriddenProperties": [],
