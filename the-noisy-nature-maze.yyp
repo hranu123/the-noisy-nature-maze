@@ -50,6 +50,7 @@
     {"id":{"name":"obj_log","path":"objects/obj_log/obj_log.yy",},"order":12,},
     {"id":{"name":"spr_big_rock","path":"sprites/spr_big_rock/spr_big_rock.yy",},"order":20,},
     {"id":{"name":"obj_tree","path":"objects/obj_tree/obj_tree.yy",},"order":1,},
+    {"id":{"name":"snd_log","path":"sounds/snd_log/snd_log.yy",},"order":12,},
     {"id":{"name":"snd_background_noise","path":"sounds/snd_background_noise/snd_background_noise.yy",},"order":1,},
     {"id":{"name":"snd_background_noise2","path":"sounds/snd_background_noise2/snd_background_noise2.yy",},"order":7,},
     {"id":{"name":"snd_small_rock","path":"sounds/snd_small_rock/snd_small_rock.yy",},"order":5,},
