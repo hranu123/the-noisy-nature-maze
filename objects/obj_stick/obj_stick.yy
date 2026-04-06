@@ -3,8 +3,8 @@
   "resourceVersion": "1.0",
   "name": "obj_stick",
   "spriteId": {
-    "name": "spr_tree",
-    "path": "sprites/spr_tree/spr_tree.yy",
+    "name": "spr_stick",
+    "path": "sprites/spr_stick/spr_stick.yy",
   },
   "solid": false,
   "visible": true,
