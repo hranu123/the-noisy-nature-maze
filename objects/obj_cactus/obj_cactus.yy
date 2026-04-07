@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obk_cactus",
+  "name": "obj_cactus",
   "spriteId": {
     "name": "spr_cactus",
     "path": "sprites/spr_cactus/spr_cactus.yy",
