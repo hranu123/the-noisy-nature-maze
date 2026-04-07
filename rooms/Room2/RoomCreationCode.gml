@@ -9,5 +9,6 @@ audio_stop_sound(snd_background_noise);
 /// @DnDVersion : 1.1
 /// @DnDHash : 1C70E5F6
 /// @DnDArgument : "soundid" "snd_background_noise2"
+/// @DnDArgument : "loop" "1"
 /// @DnDSaveInfo : "soundid" "snd_background_noise2"
-audio_play_sound(snd_background_noise2, 0, 0, 1.0, undefined, 1.0);
+audio_play_sound(snd_background_noise2, 0, 1, 1.0, undefined, 1.0);
