@@ -48,6 +48,8 @@
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_rock_moss","path":"objects/obj_rock_moss/obj_rock_moss.yy",},},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_monkey","path":"objects/obj_monkey/obj_monkey.yy",},},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_cactus","path":"objects/obj_cactus/obj_cactus.yy",},},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_tiger","path":"objects/obj_tiger/obj_tiger.yy",},},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_lion","path":"objects/obj_lion/obj_lion.yy",},},
   ],
   "properties": [],
   "overriddenProperties": [],
