@@ -5,6 +5,7 @@
   "resources": [
     {"id":{"name":"obj_main_character","path":"objects/obj_main_character/obj_main_character.yy",},"order":0,},
     {"id":{"name":"snd_wolf","path":"sounds/snd_wolf/snd_wolf.yy",},"order":9,},
+    {"id":{"name":"snd_monkey","path":"sounds/snd_monkey/snd_monkey.yy",},"order":13,},
     {"id":{"name":"spr_border","path":"sprites/spr_border/spr_border.yy",},"order":11,},
     {"id":{"name":"spr_main_down","path":"sprites/spr_main_down/spr_main_down.yy",},"order":3,},
     {"id":{"name":"spr_background2","path":"sprites/spr_background2/spr_background2.yy",},"order":17,},

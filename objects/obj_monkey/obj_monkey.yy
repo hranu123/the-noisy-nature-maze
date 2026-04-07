@@ -2,7 +2,10 @@
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
   "name": "obj_monkey",
-  "spriteId": null,
+  "spriteId": {
+    "name": "spr_monkey",
+    "path": "sprites/spr_monkey/spr_monkey.yy",
+  },
   "solid": false,
   "visible": true,
   "managed": true,
