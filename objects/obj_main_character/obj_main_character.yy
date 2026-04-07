@@ -50,6 +50,7 @@
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_cactus","path":"objects/obj_cactus/obj_cactus.yy",},},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_tiger","path":"objects/obj_tiger/obj_tiger.yy",},},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_lion","path":"objects/obj_lion/obj_lion.yy",},},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_water_portal2","path":"objects/obj_water_portal2/obj_water_portal2.yy",},},
   ],
   "properties": [],
   "overriddenProperties": [],
