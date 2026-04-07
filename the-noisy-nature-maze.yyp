@@ -18,6 +18,7 @@
     {"id":{"name":"spr_stick","path":"sprites/spr_stick/spr_stick.yy",},"order":24,},
     {"id":{"name":"spr_log","path":"sprites/spr_log/spr_log.yy",},"order":26,},
     {"id":{"name":"snd_background_3","path":"sounds/snd_background_3/snd_background_3.yy",},"order":10,},
+    {"id":{"name":"spr_background5","path":"sprites/spr_background5/spr_background5.yy",},"order":34,},
     {"id":{"name":"obj_monkey","path":"objects/obj_monkey/obj_monkey.yy",},"order":15,},
     {"id":{"name":"spr_cactus","path":"sprites/spr_cactus/spr_cactus.yy",},"order":31,},
     {"id":{"name":"obj_small_rock","path":"objects/obj_small_rock/obj_small_rock.yy",},"order":7,},
