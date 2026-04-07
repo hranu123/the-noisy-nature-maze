@@ -7,9 +7,9 @@ y = ystart;
 /// @DnDAction : YoYo Games.Audio.Play_Audio
 /// @DnDVersion : 1.1
 /// @DnDHash : 50320D95
-/// @DnDArgument : "soundid" "snd_small_rock"
-/// @DnDSaveInfo : "soundid" "snd_small_rock"
-audio_play_sound(snd_small_rock, 0, 0, 1.0, undefined, 1.0);
+/// @DnDArgument : "soundid" "snd_monkey"
+/// @DnDSaveInfo : "soundid" "snd_monkey"
+audio_play_sound(snd_monkey, 0, 0, 1.0, undefined, 1.0);
 
 /// @DnDAction : YoYo Games.Rooms.Restart_Room
 /// @DnDVersion : 1
