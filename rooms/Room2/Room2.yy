@@ -17,7 +17,6 @@
   ],
   "layers": [
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Instances","instances":[
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_F12642","properties":[],"isDnd":false,"objectId":{"name":"obj_main_character","path":"objects/obj_main_character/obj_main_character.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.23200001,"scaleY":0.16800001,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":64.0,"y":688.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_35FC4A27","properties":[],"isDnd":false,"objectId":{"name":"obj_border","path":"objects/obj_border/obj_border.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.531722,"scaleY":1.4244032,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":0.0,"y":0.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_2E9925AD","properties":[],"isDnd":false,"objectId":{"name":"obj_border","path":"objects/obj_border/obj_border.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.46827793,"scaleY":0.32095492,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":96.0,"y":512.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_51F4DED6","properties":[],"isDnd":false,"objectId":{"name":"obj_border","path":"objects/obj_border/obj_border.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":-0.27482533,"scaleX":1.6076269,"scaleY":0.5125329,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":576.0,"y":384.0,},
@@ -79,7 +78,6 @@
   "creationCodeFile": "rooms/Room2/RoomCreationCode.gml",
   "inheritCode": false,
   "instanceCreationOrder": [
-    {"name":"inst_F12642","path":"rooms/Room2/Room2.yy",},
     {"name":"inst_35FC4A27","path":"rooms/Room2/Room2.yy",},
     {"name":"inst_2E9925AD","path":"rooms/Room2/Room2.yy",},
     {"name":"inst_51F4DED6","path":"rooms/Room2/Room2.yy",},
