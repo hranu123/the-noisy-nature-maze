@@ -6,7 +6,7 @@
   "volume": 1.0,
   "parentRoom": null,
   "views": [
-    {"inherit":false,"visible":true,"xview":0,"yview":0,"wview":500,"hview":300,"xport":0,"yport":0,"wport":1366,"hport":768,"hborder":800,"vborder":800,"hspeed":-1,"vspeed":-1,"objectId":{"name":"obj_main_character","path":"objects/obj_main_character/obj_main_character.yy",},},
+    {"inherit":false,"visible":true,"xview":0,"yview":0,"wview":500,"hview":300,"xport":0,"yport":0,"wport":1366,"hport":768,"hborder":800,"vborder":800,"hspeed":-1,"vspeed":-1,"objectId":null,},
     {"inherit":false,"visible":false,"xview":0,"yview":0,"wview":1366,"hview":768,"xport":0,"yport":0,"wport":1366,"hport":768,"hborder":32,"vborder":32,"hspeed":-1,"vspeed":-1,"objectId":null,},
     {"inherit":false,"visible":false,"xview":0,"yview":0,"wview":1366,"hview":768,"xport":0,"yport":0,"wport":1366,"hport":768,"hborder":32,"vborder":32,"hspeed":-1,"vspeed":-1,"objectId":null,},
     {"inherit":false,"visible":false,"xview":0,"yview":0,"wview":1366,"hview":768,"xport":0,"yport":0,"wport":1366,"hport":768,"hborder":32,"vborder":32,"hspeed":-1,"vspeed":-1,"objectId":null,},
@@ -25,7 +25,6 @@
         {"resourceType":"GMRSpriteGraphic","resourceVersion":"1.0","name":"graphic_54C26E50","spriteId":{"name":"spr_boulder","path":"sprites/spr_boulder/spr_boulder.yy",},"headPosition":0.0,"rotation":0.0,"scaleX":0.59811616,"scaleY":0.2634271,"animationSpeed":1.0,"colour":4294967295,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1632.0,"y":1312.0,},
       ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritVisibility":true,"inheritSubLayers":true,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],},
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Instances","instances":[
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_1F47407B","properties":[],"isDnd":false,"objectId":{"name":"obj_main_character","path":"objects/obj_main_character/obj_main_character.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.23200001,"scaleY":0.16800001,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":992.0,"y":592.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_4BAD5B06","properties":[],"isDnd":false,"objectId":{"name":"obj_border","path":"objects/obj_border/obj_border.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.9516616,"scaleY":1.5941644,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":0.0,"y":0.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_55FF35BA","properties":[],"isDnd":false,"objectId":{"name":"obj_border","path":"objects/obj_border/obj_border.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0483384,"scaleY":1.4244032,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":480.0,"y":0.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_65BDA16E","properties":[],"isDnd":false,"objectId":{"name":"obj_border","path":"objects/obj_border/obj_border.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.2416918,"scaleY":1.6790451,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1184.0,"y":-32.0,},
@@ -93,7 +92,6 @@
   "creationCodeFile": "rooms/Room1/RoomCreationCode.gml",
   "inheritCode": false,
   "instanceCreationOrder": [
-    {"name":"inst_1F47407B","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_4BAD5B06","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_55FF35BA","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_65BDA16E","path":"rooms/Room1/Room1.yy",},
